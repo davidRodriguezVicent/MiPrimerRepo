@@ -1,0 +1,6 @@
+Realizar un aplicación que me permita calcular el PVP de venta de un producto para una tienda.
+El programa me tiene que pedir un precio de proveedor, el impuesto que desea aplicar y el margen de beneficio que quiere tener en ese producto.
+En función de estos parametros quiero calcular el precio total del producto
+
+1000 + 30% + 21%
+1000 + 300 + 273 = 1573

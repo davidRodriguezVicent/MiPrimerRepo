@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Juan",
+        "dni": "5567889V",
+        "email": "jj@gmail.com"
+    },
+    {
+        "nombre": "Pepe",
+        "dni": "1111111A",
+        "email": "pepe@gmail.com"
+    },
+    {
+        "nombre": "Maria",
+        "dni": "2222222S",
+        "email": "maria@gmail.com"
+    }
+]

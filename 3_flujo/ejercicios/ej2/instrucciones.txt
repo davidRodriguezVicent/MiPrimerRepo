@@ -1,0 +1,2 @@
+#Quiero que pidais un numero por pantalla y me saqueis el factorial de dicho numero
+# 5 -> 5*4*3*2*1 = 120 

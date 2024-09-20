@@ -1,0 +1,6 @@
+{
+    "python.REPL.enableREPLSmartSend": false,
+    "powershell.buttons.showPanelMovementButtons": false,
+    "powershell.analyzeOpenDocumentsOnly": false,
+    "terminal.integrated.defaultProfile.windows": "PowerShell"
+}
